@@ -5,7 +5,7 @@
             <h2>{{text}}</h2>
         </div>
         <div class="note">
-            <h2>Ask your question: <br> <a>bit.ly/farmenkth-event</a></h2>
+            <h2>Ask your question: <br> <a>bit.ly/zenuity-event</a></h2>
     </div>
   </div>
 </template>
